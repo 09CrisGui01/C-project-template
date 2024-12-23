@@ -1,5 +1,6 @@
 <a name="top"></a>
 <div align="center">
+    <img alt="C-Project banner" src="./asset/banner.webp">
     <h1>C-Project</h1>
     <br>
     <img alt="GitHub License" src="https://img.shields.io/github/license/09CrisGui01/C-project-template?style=flat-square&color=blue">
