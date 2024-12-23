@@ -56,9 +56,10 @@ If you like this project you may be interested on these project:
 - Project 1
 
 ## Contact
+- **Codeberg**: [@09CrisGui01](https://codeberg.org/09CrisGui01)
 - **GitHub:** [@09CrisGui01](https://github.com/09CrisGui01)
 - **Twitter:** [@09CrisGui01](https://x.com/09CrisGui01)
-- **Email:** [cristian.guilarte@proton.me](mailto:cristian.guilarte@proton.me?subject=Contact%20from%20GitHub)
+- **Email:** [cristian.guilarte@proton.me](mailto:cristian.guilarte@proton.me)
 
 ## Donation
 This project is free and open-source. There is *currently* no way for monetary contribution, but you can help in other ways, such as sharing, starring or developing the project.
