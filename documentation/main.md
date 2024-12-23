@@ -9,4 +9,4 @@
 > Free Documentation License".
 
 # Index
-- [Configuration](documentation/configuration.md)
+- [Configuration](configuration.md)

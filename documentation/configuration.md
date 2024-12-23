@@ -1,2 +1,2 @@
 ---
-[Go back to Main](documentation/main.md)
+[Go back to Main](main.md)
