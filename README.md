@@ -2,16 +2,14 @@
 <div align="center">
     <h1>C-Project</h1>
     <br>
-    <img alt="GitHub License" src="https://img.shields.io/github/license/09CrisGui01/{{REPO}}?style=flat-square&color=blue">
+    <img alt="GitHub License" src="https://img.shields.io/github/license/09CrisGui01/C-project-template?style=flat-square&color=blue">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/09CrisGui01/C-project-template?style=flat-square">
+    <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/09CrisGui01/C-project-template?style=flat-square">
     <img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2024?style=flat-square">
-    <img alt="GitHub branch status" src="https://img.shields.io/github/checks-status/09CrisGui01/{{REPO}}/main?style=flat-square">
-    <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/09CrisGui01/{{REPO}}?style=flat-square">
-    <img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/09CrisGui01/{{REPO}}?style=flat-square">
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/09CrisGui01/{{REPO}}?style=flat-square&color=yellow">
     <hr/>
 </div>
 
-This is a template for C projects
+This is a template for C projects.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -47,7 +45,7 @@ The source code of this project is under the [GNU Affero General Public License]
 
 ## Acknowledgments
 
-###Contributors
+### Contributors
 Thanks to [everyone involved](CONTRIBUTORS.md) in this project.
 
 ### Related
