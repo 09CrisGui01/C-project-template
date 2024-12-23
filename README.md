@@ -12,7 +12,6 @@
 This is a template for C projects.
 
 ## Table of Contents
-- [Introduction](#introduction)
 - [Installation](#installation)
     - [Dependencies](#dependencies)
 - [Usage](#usage)
@@ -26,16 +25,20 @@ This is a template for C projects.
 - [Contact](#contact)
 - [Donation](#donation)
 
-## Introduction
-
 ## Installation
 ### Dependencies
 
 ## Usage
 
 ## Configuration
+See [how to configure](documentation/configuration.md) in the documentation.
 
 ## Documentation
+### For users
+Inside [documentation](documentation) folder you will find releated information about how to use the software, how to configure and more.
+
+### For developers
+Each modules has its own `documentation` subfolder, there you can find dev docs about its implementation and functionality.
 
 ## Contributing
 All contributions are welcome. If you want to contribute to this project read the [contributing guide](CONTRIBUTING.md).
