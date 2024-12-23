@@ -1,7 +1,33 @@
-# C-Project
+<a name="top"></a>
+<div align="center">
+    <h1>C-Project</h1>
+    <br>
+    <img alt="GitHub License" src="https://img.shields.io/github/license/09CrisGui01/{{REPO}}?style=flat-square&color=blue">
+    <img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2024?style=flat-square">
+    <img alt="GitHub branch status" src="https://img.shields.io/github/checks-status/09CrisGui01/{{REPO}}/main?style=flat-square">
+    <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/09CrisGui01/{{REPO}}?style=flat-square">
+    <img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/09CrisGui01/{{REPO}}?style=flat-square">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/09CrisGui01/{{REPO}}?style=flat-square&color=yellow">
+    <hr/>
+</div>
 
-# Map of Content
+This is a template for C projects
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Installation](#installation)
+    - [Dependencies](#dependencies)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Documentation](#documentation)
+- [Contributing](#contributing)
 - [License](#license)
+- [Acknowledgments](#acknowledgments)
+    - [Authors](#authors)
+    - [Contributors](#contributors)
+    - [Related](#related)
+- [Contact](#contact)
+- [Donation](#donation)
 
 ## Introduction
 
@@ -37,5 +63,5 @@ If you like this project you may be interested on these project:
 ## Donation
 This project is free and open-source. There is *currently* no way for monetary contribution, but you can help in other ways, such as sharing, starring or developing the project.
 
-# License
-The source code of this project is under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.html) and all its documentation is under the [GNU Free Documentation License](https://www.gnu.org/licenses/fdl-1.3.html) (the license can be found inside the root level documentation folder).
+---
+[Back to Top](#top)
