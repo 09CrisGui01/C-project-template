@@ -7,7 +7,6 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/09CrisGui01/C-project-template?style=flat-square">
     <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/09CrisGui01/C-project-template?style=flat-square">
     <img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2024?style=flat-square">
-    <hr/>
 </div>
 
 This is a template for C projects.
